@@ -1,4 +1,4 @@
-#🧵 Pattern Sense: Classifying Fabric Patterns Using Deep Learning
+🧵 #Pattern Sense: Classifying Fabric Patterns Using Deep Learning
 A computer vision project focused on classifying various fabric patterns using a convolutional neural network (CNN) model. Built using TensorFlow and Keras, this project aims to aid textile industries and fashion tech by automating the recognition of fabric pattern types.
 
 📌 Table of Contents
